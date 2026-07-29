@@ -1,3 +1,3 @@
-MODELO = "claude-sonnet-5"
-TEMPERATURA = 0.7
-MAX_TOKENS = 1024
+MODELO = "claude-opus-5"
+TEMPERATURA = 1.0
+MAX_TOKENS = 2048
