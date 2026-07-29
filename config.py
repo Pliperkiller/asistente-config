@@ -1,3 +1,3 @@
 MODELO = "claude-sonnet-5"
-TEMPERATURA = 0.7
+TEMPERATURA = 0.2
 MAX_TOKENS = 1024
