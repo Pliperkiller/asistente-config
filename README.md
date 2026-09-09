@@ -7,5 +7,5 @@ Este repo contiene el script de configuracion del modelo
 - Guardar cambios
 
 ## Parámetros
-temperature: define que tanto puede divagar el modelo y que tan poco determinista son sus respuestas , por regla de negocio se ajusta a 0.2 (de 0.0 a 1.0) para que tenga una libertad baja de creatividad
+temperature: define que tanto puede divagar el modelo y que tan poco determinista son sus respuestas , por regla de negocio se ajusta a 0.2 para que tenga una libertad baja de creatividad. El rango valido del parametro es [0-1]
 max_tokens: controla la cantidad de tokens maximos que se le mandan al modelo, por regla de negocio se coloca como 2048
